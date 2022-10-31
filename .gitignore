@@ -1,5 +1,6 @@
 *.log
 *.txt
 
+__pycache__/
 Calculator_Draft.py
 Calculator_Draft_sample.py
