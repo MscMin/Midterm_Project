@@ -2,7 +2,7 @@ import Arithmetic_operation
 import Logging
 
 def reconfirm(x):
-    while x!="no" and x!="yes":
+    while x.lower()!="no" and x.lower()!="yes":
         x = input("Please Enter the 'no' or 'yes'!: ")
     return x
 
